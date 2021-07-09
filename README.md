@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anna Misnik - an IT student at Royal Institute of Technology in Stockholm, Sweden
+- 👋 Hi, My name is Anna Misnik, 22 y.o. - an IT student at Royal Institute of Technology in Stockholm, Sweden
 - 👀 I’m interested in AI, cosmology and computer science. 
-- 🌱 I’m currently focusing on my studies at university, doing new projects and trying to find an IT internship.
+- 🌱 I’m currently focusing on my studies at university, doing new projects and learning new stuff as much as I can.
 - 💞️ 
 - 📫 How to reach me:
       e-mail: misnik@kth.se
