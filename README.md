@@ -1,11 +1,16 @@
-- 👋 Hi, My name is Anna Misnik, 22 y.o. - an IT student at Royal Institute of Technology in Stockholm, Sweden
-- 👀 I’m interested in AI, cosmology and computer science. 
-- 🌱 I’m currently focusing on my studies at university, doing new projects and learning new stuff as much as I can.
-- 💞️ 
+👋 Hey there, I'm Anna Misnik! 🌍 🌱 🚀
+
+👩‍💻 Recent graduate from KTH Royal Institute of Technology, passionate about database administration and management. 🎓
+
+🗣️ Fluent in 4 languages (Russian, Estonian, English, Swedish) and originally from Estonia with roots in Russia. 🌍
+
+💼 Seeking remote work opportunities, with a strong interest in innovation and sustainability. 💻 🌿
+
+Thanks for stopping by my page - let's connect! 🔗
+
 - 📫 How to reach me:
-      e-mail: misnik@kth.se
+      e-mail: misnik9@gmail.com
       Facebook: Anna Misnik
-      Mobile: +46700340513
 
 <!---
 anna-misnik/anna-misnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
